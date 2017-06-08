@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0ABC" format="1">
+  <advance width="0"/>
+  <unicode hex="0ABC"/>
+  <outline>
+    <contour>
+      <point x="33" y="-44" type="move" name="_Anchor-5"/>
+    </contour>
+    <contour>
+      <point x="172" y="-117" type="qcurve" smooth="yes"/>
+      <point x="172" y="-143"/>
+      <point x="135" y="-181"/>
+      <point x="109" y="-181" type="qcurve" smooth="yes"/>
+      <point x="82" y="-181"/>
+      <point x="45" y="-143"/>
+      <point x="45" y="-117" type="qcurve" smooth="yes"/>
+      <point x="45" y="-92"/>
+      <point x="84" y="-55"/>
+      <point x="109" y="-55" type="qcurve" smooth="yes"/>
+      <point x="135" y="-55"/>
+      <point x="172" y="-91"/>
+    </contour>
+  </outline>
+</glyph>

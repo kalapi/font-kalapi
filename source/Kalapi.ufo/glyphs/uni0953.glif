@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0953" format="1">
+  <advance width="0"/>
+  <unicode hex="0953"/>
+  <outline>
+    <contour>
+      <point x="-55" y="660" type="move" name="_Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="-55" y="660" type="move" name="_Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="-212" y="1076" type="qcurve" smooth="yes"/>
+      <point x="-29" y="893" type="line" smooth="yes"/>
+      <point x="-28" y="891"/>
+      <point x="-28" y="889" type="qcurve" smooth="yes"/>
+      <point x="-28" y="882"/>
+      <point x="-59" y="851"/>
+      <point x="-67" y="851" type="qcurve" smooth="yes"/>
+      <point x="-69" y="851"/>
+      <point x="-70" y="852" type="qcurve" smooth="yes"/>
+      <point x="-253" y="1035" type="line" smooth="yes"/>
+      <point x="-255" y="1037"/>
+      <point x="-255" y="1039" type="qcurve" smooth="yes"/>
+      <point x="-255" y="1046"/>
+      <point x="-224" y="1078"/>
+      <point x="-216" y="1078" type="qcurve" smooth="yes"/>
+      <point x="-214" y="1078"/>
+    </contour>
+  </outline>
+</glyph>
