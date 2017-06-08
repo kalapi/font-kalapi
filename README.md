@@ -1,73 +1,12 @@
-font-kalapi
-===========
+### Kalapi: A Gujarati Typeface Family
 
-Kalapi Gujarati Unicode font.
+#### Introduction
 
-Sample Text
-===========
+Building on the work of the original designers of _Kalapi_ part of the GujaratiLexicon team), version 2.0 attempts to improve and extend the typeface by updating its design (redesigning letters and producing additional weights) and improving functionality (by developing and maintaining better source files and tool-chain).
 
-Run:
+Mr [Ratilal Chandaria](https://en.wikipedia.org/wiki/Ratilal_Chandaria), one of the founders of the Chandaria Foundation, helped fund my research in Gujarati typography when I was a student at the Master of Typeface Design course at the University of Reading, U.K. This is my attempt to give back to the community while honouring the legacy and spirit of _Ratikaka_.  
 
-```
-make test
-```
+#### Technical Information
 
-to get sample output of Kalapi font.
+TBA
 
-Installation
-============
-
-#### Linux (using package)
-In Debian and derivative distributions like Ubuntu, simply use:
-
-```
-sudo apt-get install fonts-aakar
-```
-
-#### Linux (manual installation)
-
-Place font file to /usr/share/fonts folder and run,
-
-```
-fc-cache -v
-```
-
-in terminal.
-
-#### Mac
-```
-wget -c https://github.com/gujaratilexicon/font-kalapi/archive/1.0.tar.gz
-tar xvzf 1.0.tar.gz
-cp Kalapi.ttf /Library/Fonts/Kalapi.ttf
-```
-
-#### Windows
-TODO
-
-How to generate TTF file?
-=========================
-
-For Linux (or any UNIX like systems or Mac OS X):
-
-1. Install fontforge:
-
-You need to have FontForge installed. See: <http://fontforge.sourceforge.net/>
-
-2. Run make using:
-```
-make
-```
-
-License
-=======
-SIL OFL 1.1
-
-Known Issues
-============
-See [pending issues] (https://github.com/gujaratilexicon/font-kalapi/issues)
-
-Contact
-=======
-
-* Troubles/Bugs/Issues? please use Github issue tracker at:
-  <https://github.com/gujaratilexicon/font-kalapi/issues>
